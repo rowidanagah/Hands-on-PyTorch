@@ -6,7 +6,7 @@
 - **What is PyTorch**
 - ***Tensor***
 - **Automatic Differentiation and Autograd**
-- [Referances](#III. Referances)
+- [Referances](#Referances)
 
 
 
